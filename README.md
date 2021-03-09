@@ -1,2 +1,2 @@
-# dash_heroku
+# Dash_Heroku
 Dash on Heroku
